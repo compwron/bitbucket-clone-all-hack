@@ -10,3 +10,9 @@ Usage:
 4. ruby go.rb
 5. chmod +x clone_all_repos.sh
 6. ./clone_all_repos.sh 
+
+
+Purpose:
+========
+
+Wow do we have a lot of code and yes I need to search through all of it at the same time sometimes. 
