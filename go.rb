@@ -1,5 +1,4 @@
 require 'json'
-require 'git'
 
 def urls(filename)
   JSON.parse(IO.read(filename, encoding: 'utf-8'))
